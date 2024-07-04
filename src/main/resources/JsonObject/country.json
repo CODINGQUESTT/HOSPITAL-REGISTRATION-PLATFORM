@@ -1,0 +1,16 @@
+{
+    "country":[{
+            "India":[{
+                "state":"Bihar",
+                "city":[{
+					"patna":[{
+						"Pincode":"909090"
+					}],
+					"Darbhanga":[{
+						"Pincode":"8898989"
+					}]
+				}]  
+            }]
+            
+        }]
+}

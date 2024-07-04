@@ -1,0 +1,6 @@
+{
+	"departmentname":["cardiology","urology","dentist"],
+    "cardiology":["sakshi","simran"],
+    "urology":["viabhav","adarsh"],
+    "dentist":["komal","anshu"]
+}

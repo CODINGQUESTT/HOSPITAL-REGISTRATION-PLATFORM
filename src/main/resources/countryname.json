@@ -1,0 +1,7 @@
+{
+    "country":["INDIA","USA"],
+    "INDIA":["delhi","KArnataka"],
+    "delhi":["noida","anandvihar"],
+    "noida":["12345","78878"]
+   
+}
